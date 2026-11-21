@@ -2,7 +2,7 @@
 
 A complete, production-style demo of a tennis club booking platform: a Persian (RTL) public website, a five-step online booking flow with SMS verification and simulated payment, a customer portal, a data-rich admin dashboard, and a coach panel — all running on mock data in the browser with zero backend required.
 
-**Live demo:** `https://<your-username>.github.io/setpoint/` (update after the first GitHub Pages deployment)
+**Live demo:** https://geraltwitcher66.github.io/setpoint/
 
 ## Demo accounts
 
